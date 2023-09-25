@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="RestDemo1"/>
+			<item value="Ass1"/>
+			<item value="Practice1"/>
+			<item value="Practice"/>
+			<item value="RestDemo"/>
+			<item value="Assignment1"/>
+			<item value="Demo1"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="RestDemo1"/>
+			<item value="Ass1"/>
+			<item value="Practice1"/>
+			<item value="Practice"/>
+			<item value="RestDemo"/>
+			<item value="Assignment1"/>
+			<item value="Demo1"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

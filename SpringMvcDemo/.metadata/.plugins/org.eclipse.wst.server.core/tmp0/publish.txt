@@ -1,0 +1,9 @@
+#Tomcat publish data
+#Wed Aug 23 22:38:30 IST 2023
+org.eclipse.jst.jee.server\:Practice=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\apache-tomcat-9.0.71\\wtpwebapps\\Practice
+org.eclipse.jst.jee.server\:Ass1=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\apache-tomcat-9.0.71\\wtpwebapps\\Ass1
+org.eclipse.jst.jee.server\:Demo1=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\apache-tomcat-9.0.71\\wtpwebapps\\Demo1
+org.eclipse.jst.jee.server\:Assignment1=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\apache-tomcat-9.0.71\\wtpwebapps\\Assignment1
+org.eclipse.jst.jee.server\:RestDemo1=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\apache-tomcat-9.0.71\\wtpwebapps\\RestDemo1
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\user\\.m2\\repository\\org\\springframework\\spring-web\\5.1.1.RELEASE\\spring-web-5.1.1.RELEASE.jar=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\apache-tomcat-9.0.71\\wtpwebapps\\RestDemo1\\WEB-INF\\lib\\spring-web-5.1.1.RELEASE.jar
+org.eclipse.jst.jee.server\:RestDemo=C\:\\Program Files\\Apache Software Foundation\\Tomcat 9.0\\apache-tomcat-9.0.71\\wtpwebapps\\RestDemo

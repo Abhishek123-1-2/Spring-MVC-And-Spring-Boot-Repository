@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;in.mindcraft.RestController&apos; to &apos;MyController&apos;&#x0D;&#x0A;- Original project: &apos;RestDemo&apos;&#x0D;&#x0A;- Original element: &apos;in.mindcraft.RestController&apos;&#x0D;&#x0A;- Renamed element: &apos;in.mindcraft.MyController&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;RestController&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;in.mindcraft{RestController.java[RestController" matchStrategy="1" name="MyController" qualified="false" references="true" similarDeclarations="false" stamp="1692769352830" textual="false" version="1.0"/>
+</session>
